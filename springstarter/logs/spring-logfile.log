@@ -1,0 +1,140 @@
+2024-05-22 12:21:02 [main] INFO  org.abol.springstarter.SpringstarterApplication - Starting SpringstarterApplication using Java 21.0.2 with PID 8012 (C:\Users\rahee\Desktop\springstarter\target\classes started by rahee in C:\Users\rahee\Desktop\springstarter)
+2024-05-22 12:21:02 [main] INFO  org.abol.springstarter.SpringstarterApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 12:21:03 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8082 (http)
+2024-05-22 12:21:03 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 653 ms
+2024-05-22 12:21:03 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8082 (http) with context path ''
+2024-05-22 12:21:03 [main] INFO  org.abol.springstarter.SpringstarterApplication - Started SpringstarterApplication in 1.329 seconds (process running for 1.963)
+2024-05-22 12:21:13 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-22 12:21:13 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-05-22 12:21:14 [http-nio-8082-exec-1] INFO  org.abol.springstarter.controllers.UserController - Displaying registration form
+2024-05-22 12:21:41 [http-nio-8082-exec-2] INFO  org.abol.springstarter.controllers.UserController - User saved: BaseUser(name=ray, email=ray@gmail.com, tel=2223333, password=Password222, refer=facebook, contact=phone, terms=true)
+2024-05-22 12:21:43 [http-nio-8082-exec-5] INFO  org.abol.springstarter.controllers.UserController - Displaying all users
+2024-05-22 12:21:57 [http-nio-8082-exec-4] INFO  org.abol.springstarter.controllers.UserController - User updated: BaseUser(name=sa,, email=ray@gmail.com, tel=2223333, password=Passordff3, refer=facebook, contact=phone, terms=true)
+2024-05-22 12:21:57 [http-nio-8082-exec-6] INFO  org.abol.springstarter.controllers.UserController - Displaying all users
+2024-05-22 12:22:09 [http-nio-8082-exec-7] INFO  org.abol.springstarter.controllers.UserController - Deleting user at index 0
+2024-05-22 12:22:09 [http-nio-8082-exec-8] INFO  org.abol.springstarter.controllers.UserController - Displaying all users
+2024-05-22 12:22:18 [http-nio-8082-exec-10] INFO  org.abol.springstarter.controllers.UserController - Displaying registration form
+2024-05-22 12:28:07 [main] INFO  org.abol.springstarter.SpringstarterApplication - Starting SpringstarterApplication using Java 21.0.2 with PID 796 (C:\Users\rahee\Desktop\springstarter\target\classes started by rahee in C:\Users\rahee\Desktop\springstarter)
+2024-05-22 12:28:07 [main] INFO  org.abol.springstarter.SpringstarterApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 12:28:07 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8082 (http)
+2024-05-22 12:28:07 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 676 ms
+2024-05-22 12:28:08 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8082 (http) with context path ''
+2024-05-22 12:28:08 [main] INFO  org.abol.springstarter.SpringstarterApplication - Started SpringstarterApplication in 1.354 seconds (process running for 2.03)
+2024-05-22 12:28:32 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-22 12:28:32 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-05-22 12:28:32 [http-nio-8082-exec-1] INFO  org.abol.springstarter.controllers.UserController - User saved: BaseUser(name=sam, email=sam@gmail.com, tel=1112222, password=Passwoddd3, refer=facebook, contact=email, terms=true)
+2024-05-22 12:28:50 [main] INFO  org.abol.springstarter.SpringstarterApplication - Starting SpringstarterApplication using Java 21.0.2 with PID 11820 (C:\Users\rahee\Desktop\springstarter\target\classes started by rahee in C:\Users\rahee\Desktop\springstarter)
+2024-05-22 12:28:50 [main] INFO  org.abol.springstarter.SpringstarterApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 12:28:51 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8082 (http)
+2024-05-22 12:28:51 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 652 ms
+2024-05-22 12:28:51 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8082 (http) with context path ''
+2024-05-22 12:28:51 [main] INFO  org.abol.springstarter.SpringstarterApplication - Started SpringstarterApplication in 1.359 seconds (process running for 2.128)
+2024-05-22 12:28:51 [http-nio-8082-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-22 12:28:51 [http-nio-8082-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-05-22 12:28:51 [http-nio-8082-exec-2] INFO  org.abol.springstarter.controllers.UserController - Displaying registration form
+2024-05-22 12:29:17 [http-nio-8082-exec-8] INFO  org.abol.springstarter.controllers.UserController - User saved: BaseUser(name=Ray, email=ray@gmail.com, tel=2223333, password=Password22, refer=facebook, contact=email, terms=true)
+2024-05-22 12:29:43 [main] INFO  org.abol.springstarter.SpringstarterApplication - Starting SpringstarterApplication using Java 21.0.2 with PID 4708 (C:\Users\rahee\Desktop\springstarter\target\classes started by rahee in C:\Users\rahee\Desktop\springstarter)
+2024-05-22 12:29:43 [main] INFO  org.abol.springstarter.SpringstarterApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 12:29:44 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8082 (http)
+2024-05-22 12:29:44 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 695 ms
+2024-05-22 12:29:44 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8082 (http) with context path ''
+2024-05-22 12:29:44 [main] INFO  org.abol.springstarter.SpringstarterApplication - Started SpringstarterApplication in 1.387 seconds (process running for 2.035)
+2024-05-22 12:29:47 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-22 12:29:47 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-05-22 12:29:47 [http-nio-8082-exec-1] INFO  org.abol.springstarter.controllers.UserController - User saved: BaseUser(name=Ray, email=ray@gmail.com, tel=2223333, password=Password22, refer=facebook, contact=email, terms=true)
+2024-05-22 12:29:55 [http-nio-8082-exec-9] INFO  org.abol.springstarter.controllers.UserController - Displaying registration form
+2024-05-22 12:30:23 [http-nio-8082-exec-4] INFO  org.abol.springstarter.controllers.UserController - User saved: BaseUser(name=t, email=t@gmail.com, tel=7777777, password=Password222, refer=facebook, contact=email, terms=true)
+2024-05-22 12:32:06 [main] INFO  org.abol.springstarter.SpringstarterApplication - Starting SpringstarterApplication using Java 21.0.2 with PID 2964 (C:\Users\rahee\Desktop\springstarter\target\classes started by rahee in C:\Users\rahee\Desktop\springstarter)
+2024-05-22 12:32:06 [main] INFO  org.abol.springstarter.SpringstarterApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 12:32:07 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8082 (http)
+2024-05-22 12:32:07 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 933 ms
+2024-05-22 12:32:07 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8082 (http) with context path ''
+2024-05-22 12:32:07 [main] INFO  org.abol.springstarter.SpringstarterApplication - Started SpringstarterApplication in 2.26 seconds (process running for 3.329)
+2024-05-22 12:32:15 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-22 12:32:15 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-05-22 12:32:15 [http-nio-8082-exec-1] INFO  org.abol.springstarter.controllers.UserController - Displaying registration form
+2024-05-22 12:32:34 [http-nio-8082-exec-2] INFO  org.abol.springstarter.controllers.UserController - User saved: BaseUser(name=sam, email=sam@gmail.com, tel=2223333, password=Password222, refer=facebook, contact=email, terms=true)
+2024-05-22 12:32:38 [http-nio-8082-exec-3] INFO  org.abol.springstarter.controllers.UserController - Displaying all users
+2024-05-22 12:32:40 [http-nio-8082-exec-4] INFO  org.abol.springstarter.controllers.UserController - Deleting user at index 0
+2024-05-22 12:32:40 [http-nio-8082-exec-5] INFO  org.abol.springstarter.controllers.UserController - Displaying all users
+2024-05-22 12:32:42 [http-nio-8082-exec-6] INFO  org.abol.springstarter.controllers.UserController - Displaying registration form
+2024-05-22 12:33:07 [http-nio-8082-exec-7] INFO  org.abol.springstarter.controllers.UserController - User saved: BaseUser(name=Hans, email=hans@gmail.com, tel=7778888, password=Plaskjdflka333, refer=facebook, contact=email, terms=true)
+2024-05-22 12:33:12 [http-nio-8082-exec-8] INFO  org.abol.springstarter.controllers.UserController - Displaying all users
+2024-05-22 12:33:19 [http-nio-8082-exec-1] INFO  org.abol.springstarter.controllers.UserController - User updated: BaseUser(name=t, email=hans@gmail.com, tel=7778888, password=, refer=facebook, contact=email, terms=true)
+2024-05-22 12:33:19 [http-nio-8082-exec-2] INFO  org.abol.springstarter.controllers.UserController - Displaying all users
+2024-05-22 12:33:24 [http-nio-8082-exec-3] INFO  org.abol.springstarter.controllers.UserController - Displaying registration form
+2024-05-22 12:33:48 [http-nio-8082-exec-4] INFO  org.abol.springstarter.controllers.UserController - User saved: BaseUser(name=Phang, email=p@gmail.com, tel=8889999, password=Paslkjflaslj4, refer=facebook, contact=email, terms=true)
+2024-05-22 12:33:49 [http-nio-8082-exec-5] INFO  org.abol.springstarter.controllers.UserController - Displaying all users
+2024-05-22 12:33:59 [http-nio-8082-exec-7] INFO  org.abol.springstarter.controllers.UserController - User updated: BaseUser(name=t, email=hans@gmail.com, tel=7778888, password=fdasfasdfR44, refer=facebook, contact=email, terms=true)
+2024-05-22 12:33:59 [http-nio-8082-exec-8] INFO  org.abol.springstarter.controllers.UserController - Displaying all users
+2024-05-22 12:54:15 [main] INFO  org.abol.springstarter.SpringstarterApplication - Starting SpringstarterApplication using Java 21.0.2 with PID 1392 (C:\Users\rahee\Desktop\springstarter\target\classes started by rahee in C:\Users\rahee\Desktop\springstarter)
+2024-05-22 12:54:15 [main] INFO  org.abol.springstarter.SpringstarterApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 12:54:16 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8082 (http)
+2024-05-22 12:54:16 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 882 ms
+2024-05-22 12:54:16 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8082 (http) with context path ''
+2024-05-22 12:54:16 [main] INFO  org.abol.springstarter.SpringstarterApplication - Started SpringstarterApplication in 1.803 seconds (process running for 2.587)
+2024-05-22 12:56:58 [main] INFO  org.abol.springstarter.SpringstarterApplication - Starting SpringstarterApplication using Java 21.0.2 with PID 3648 (C:\Users\rahee\Desktop\springstarter\target\classes started by rahee in C:\Users\rahee\Desktop\springstarter)
+2024-05-22 12:56:58 [main] INFO  org.abol.springstarter.SpringstarterApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 12:56:59 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8082 (http)
+2024-05-22 12:56:59 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 710 ms
+2024-05-22 12:56:59 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8082 (http) with context path ''
+2024-05-22 12:56:59 [main] INFO  org.abol.springstarter.SpringstarterApplication - Started SpringstarterApplication in 1.458 seconds (process running for 2.167)
+2024-05-22 12:57:12 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-22 12:57:12 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-05-22 12:57:12 [http-nio-8082-exec-1] INFO  org.abol.springstarter.controllers.UserController - Displaying registration form
+2024-05-22 12:59:52 [main] INFO  org.abol.springstarter.SpringstarterApplication - Starting SpringstarterApplication using Java 21.0.2 with PID 10620 (C:\Users\rahee\Desktop\springstarter\target\classes started by rahee in C:\Users\rahee\Desktop\springstarter)
+2024-05-22 12:59:52 [main] INFO  org.abol.springstarter.SpringstarterApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 12:59:53 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8082 (http)
+2024-05-22 12:59:53 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 836 ms
+2024-05-22 12:59:53 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8082 (http) with context path ''
+2024-05-22 12:59:53 [main] INFO  org.abol.springstarter.SpringstarterApplication - Started SpringstarterApplication in 1.678 seconds (process running for 2.508)
+2024-05-22 13:00:03 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-22 13:00:03 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-05-22 13:00:03 [http-nio-8082-exec-1] INFO  org.abol.springstarter.controllers.UserController - Displaying registration form
+2024-05-22 13:00:27 [main] INFO  org.abol.springstarter.SpringstarterApplication - Starting SpringstarterApplication using Java 21.0.2 with PID 5428 (C:\Users\rahee\Desktop\springstarter\target\classes started by rahee in C:\Users\rahee\Desktop\springstarter)
+2024-05-22 13:00:27 [main] INFO  org.abol.springstarter.SpringstarterApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 13:00:28 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8082 (http)
+2024-05-22 13:00:28 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 756 ms
+2024-05-22 13:00:28 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8082 (http) with context path ''
+2024-05-22 13:00:28 [main] INFO  org.abol.springstarter.SpringstarterApplication - Started SpringstarterApplication in 1.545 seconds (process running for 2.237)
+2024-05-22 13:01:09 [main] INFO  org.abol.springstarter.SpringstarterApplication - Starting SpringstarterApplication using Java 21.0.2 with PID 3924 (C:\Users\rahee\Desktop\springstarter\target\classes started by rahee in C:\Users\rahee\Desktop\springstarter)
+2024-05-22 13:01:09 [main] INFO  org.abol.springstarter.SpringstarterApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 13:01:10 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8082 (http)
+2024-05-22 13:01:10 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 814 ms
+2024-05-22 13:01:11 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8082 (http) with context path ''
+2024-05-22 13:01:11 [main] INFO  org.abol.springstarter.SpringstarterApplication - Started SpringstarterApplication in 1.625 seconds (process running for 2.4)
+2024-05-22 13:01:16 [http-nio-8082-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-22 13:01:16 [http-nio-8082-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-05-22 13:01:16 [http-nio-8082-exec-2] INFO  org.abol.springstarter.controllers.UserController - Displaying registration form
+2024-05-22 13:01:43 [http-nio-8082-exec-1] INFO  org.abol.springstarter.controllers.UserController - User saved: BaseUser(name=t, email=t@gmail.com, tel=2223333, password=Passowerde3, refer=facebook, contact=phone, terms=true)
+2024-05-22 13:01:46 [http-nio-8082-exec-3] INFO  org.abol.springstarter.controllers.UserController - Displaying all users
+2024-05-22 13:01:49 [http-nio-8082-exec-4] INFO  org.abol.springstarter.controllers.UserController - Displaying registration form
+2024-05-22 13:02:08 [http-nio-8082-exec-5] INFO  org.abol.springstarter.controllers.UserController - User saved: BaseUser(name=s, email=s@gmail.com, tel=2223333, password=Psalsdjflaksdj3, refer=facebook, contact=email, terms=true)
+2024-05-22 13:02:09 [http-nio-8082-exec-6] INFO  org.abol.springstarter.controllers.UserController - Displaying all users
+2024-05-22 13:02:20 [http-nio-8082-exec-9] INFO  org.abol.springstarter.controllers.UserController - User updated: BaseUser(name=sr, email=s@gmail.com, tel=2223333, password=PoiasdfohjasdR454, refer=facebook, contact=email, terms=true)
+2024-05-22 13:02:20 [http-nio-8082-exec-10] INFO  org.abol.springstarter.controllers.UserController - Displaying all users
+2024-05-22 13:02:27 [http-nio-8082-exec-2] INFO  org.abol.springstarter.controllers.UserController - Deleting user at index 1
+2024-05-22 13:02:27 [http-nio-8082-exec-1] INFO  org.abol.springstarter.controllers.UserController - Displaying all users
+2024-05-22 13:11:46 [http-nio-8082-exec-5] INFO  org.abol.springstarter.controllers.UserController - Deleting user at index 0
+2024-05-22 13:11:46 [http-nio-8082-exec-6] INFO  org.abol.springstarter.controllers.UserController - Displaying all users
+2024-05-22 13:12:24 [main] INFO  org.abol.springstarter.SpringstarterApplication - Starting SpringstarterApplication using Java 21.0.2 with PID 11248 (C:\Users\rahee\Desktop\springstarter\target\classes started by rahee in C:\Users\rahee\Desktop\springstarter)
+2024-05-22 13:12:24 [main] INFO  org.abol.springstarter.SpringstarterApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 13:12:24 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8082 (http)
+2024-05-22 13:12:25 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 677 ms
+2024-05-22 13:12:25 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8082 (http) with context path ''
+2024-05-22 13:12:25 [main] INFO  org.abol.springstarter.SpringstarterApplication - Started SpringstarterApplication in 1.451 seconds (process running for 2.176)
+2024-05-22 13:12:44 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-22 13:12:44 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-05-22 13:12:44 [http-nio-8082-exec-1] INFO  org.abol.springstarter.controllers.UserController - Displaying registration form
+2024-05-22 13:13:07 [http-nio-8082-exec-3] INFO  org.abol.springstarter.controllers.UserController - User saved: BaseUser(name=sam, email=sam@gmail.com, tel=2223333, password=Password333, refer=facebook, contact=phone, terms=true)
+2024-05-22 13:13:08 [http-nio-8082-exec-5] INFO  org.abol.springstarter.controllers.UserController - Displaying all users
+2024-05-22 13:13:13 [http-nio-8082-exec-4] INFO  org.abol.springstarter.controllers.UserController - Displaying registration form
+2024-05-22 13:13:31 [http-nio-8082-exec-2] INFO  org.abol.springstarter.controllers.UserController - User saved: BaseUser(name=tina, email=tina@gmail.com, tel=2224444, password=Palskjdflkas3, refer=facebook, contact=email, terms=true)
+2024-05-22 13:13:33 [http-nio-8082-exec-6] INFO  org.abol.springstarter.controllers.UserController - Displaying all users
+2024-05-22 13:13:35 [http-nio-8082-exec-7] INFO  org.abol.springstarter.controllers.UserController - Deleting user at index 1
+2024-05-22 13:13:35 [http-nio-8082-exec-8] INFO  org.abol.springstarter.controllers.UserController - Displaying all users
+2024-05-22 13:13:53 [http-nio-8082-exec-1] INFO  org.abol.springstarter.controllers.UserController - User updated: BaseUser(name=s, email=sam@gmail.com, tel=2223333, password=JPOdfujaoisdhf33, refer=facebook, contact=phone, terms=true)
+2024-05-22 13:13:53 [http-nio-8082-exec-3] INFO  org.abol.springstarter.controllers.UserController - Displaying all users
+2024-05-22 13:13:56 [http-nio-8082-exec-5] INFO  org.abol.springstarter.controllers.UserController - Deleting user at index 0
+2024-05-22 13:13:56 [http-nio-8082-exec-4] INFO  org.abol.springstarter.controllers.UserController - Displaying all users
+2024-05-22 13:13:58 [http-nio-8082-exec-2] INFO  org.abol.springstarter.controllers.UserController - Displaying registration form

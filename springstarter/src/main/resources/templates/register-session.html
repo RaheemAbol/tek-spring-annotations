@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Register User with Session</title>
+    <link rel="stylesheet" th:href="@{/css/styles.css}" />
+</head>
+<body>
+<div class="container">
+    <div class="form-section">
+        <h1>Register User with Session</h1>
+        <form id="registerSessionForm" th:action="@{/session/saveUser}" th:object="${baseUser}" method="post">
+            <input type="text" id="name" th:field="*{name}" placeholder="Full Name" required/>
+            <input type="email" id="email" th:field="*{email}" placeholder="Email Address" required/>
+            <input type="tel" id="tel" th:field="*{tel}" placeholder="Phone Number" required/>
+            <input type="password" id="password" th:field="*{password}" placeholder="Password" required/>
+            <select id="refer" th:field="*{refer}" required>
+                <option value="" disabled selected>How did you hear about us?</option>
+                <option value="facebook">Facebook</option>
+                <option value="linkedin">LinkedIn</option>
+                <option value="google">Google</option>
+            </select>
+            <fieldset>
+                <legend>Preferred Contact Method</legend>
+                <label><input type="radio" th:field="*{contact}" value="email" required/> Email</label>
+                <label><input type="radio" th:field="*{contact}" value="phone" required/> Phone</label>
+            </fieldset>
+            <label><input type="checkbox" th:field="*{terms}" required/> I agree to the terms and conditions</label>
+            <button type="submit">Register</button>
+        </form>
+    </div>
+</div>
+</body>
+</html>
